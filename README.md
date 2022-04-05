@@ -8,7 +8,8 @@
 * Proje son gonderim tarihi **17 Nisan 2022 23:59**'dur.
 * Proje iceriginde degisiklikler, eklemeler, duzeltmeler yapilabilir. Lutfen universite email hesaplarinizi, [BMB212 Github sayfasini](https://github.com/gusanmaz/NKU_DS_Course_2022) ve [Ders Github Issues sayfasini](https://github.com/gusanmaz/NKU_DS_Course_2022/issues) duzenli takip ediniz.
 * Projeleriniz otomatik program tarafindan degerlendirilecektir. Gondereceginiz kodlarin derlendigine ve tam olarak projede istenilen sekilde olmasina dikkat ediniz.
-* Bu proje bireysel bir projedir. Kesinlikle baskasindan aldiginiz kodlari gondermeyiniz! 
+* Bu proje bireysel bir projedir. Kesinlikle baskasindan aldiginiz kodlari gondermeyiniz!
+* Projeye ogrenci_numaram.txt (ornegin ogrenci numaraniz 1234567890 ise 1234567890.txt) isimli bos bir dosya ekleyiniz. Bu dosya herhangi bir alt dizinde olmasin. Bu dosya Main.java Node.java gibi dosyalarin oldugu yerde olmalidir.
 
 # Projenin Derlenmesi
 
