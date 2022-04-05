@@ -64,7 +64,8 @@ public class LinkedList {
         
     }
 
-    // Bu metod bagli listedeki elemanlarin toplamini dondurur.
+    // Bu metod bagli listedeki elemanlarin toplamini dondurur. 
+    // Eger bagli liste bossa metod 0 degerini dondurmelidir. 
 
     public int Sum(){
        
